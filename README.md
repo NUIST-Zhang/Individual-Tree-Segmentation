@@ -20,10 +20,9 @@ He Ma, Fangmin Zhang*, Simin Chen, Jinge Yu. "Individual Tree Segmentation Using
   pages={101--110},
   year={2025}
 }
-'''
-**OX:**
+Patent:
 This work is also related to the following granted patent:
 张方敏, 马赫. 一种基于LiDAR点云的单木分割方法. 专利号: ZL 2024 1 0765468.3. 授权公告号: CN 118334354 B.
 
-**Affiliation**
+Affiliation
 Developed by NUIST Zhang Fangmin Group, Nanjing University of Information Science and Technology.
